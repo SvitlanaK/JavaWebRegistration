@@ -1,0 +1,11 @@
+service\RegistrationValidator.class
+repository\UserRepository.class
+service\LoginValidator.class
+servlet\RegistrationServlet.class
+service\AbstractBeanValidator.class
+bean\LoginFormBean.class
+bean\User.class
+constants\Constants.class
+bean\RegistrationFormBean.class
+service\IValidator.class
+servlet\LoginServlet.class
